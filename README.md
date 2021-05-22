@@ -39,3 +39,4 @@ Sign Up checklist:
 25) Fill the "Email" field without @  and fill in all other required  fields with valid values and click the button  "Registered".
 26) Enter in "Repeat Password" field values that are not similar to field "Password" and fill all other equired fields with valid values and click the button "Registered".
 27) Exit the application and log in again.)30
+
